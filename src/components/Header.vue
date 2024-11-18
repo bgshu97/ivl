@@ -9,31 +9,31 @@
                                 <nav id="desktop-nav" role="navigation" aria-label="Navigation">
                                     <ul id="desktop-only-links" class="p-md-0 mr-md-4 dropdown-ul nav--menu accessible-megamenu" role="menu">
                                         <li class="nav-item js-nav--item" role="menuitem">
-                                            <a href="/ivl/sign-up/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Sign Up</a>
+                                            <a href="/ivl/#/sign-up/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Sign Up</a>
                                         </li>
                                         <li class="nav-item js-nav--item" role="menuitem">
-                                            <a href="/about/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Application</a>
+                                            <a href="/ivl/#/league-format/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">League Format</a>
                                         </li>
                                         <li class="nav-item js-nav--item" role="menuitem">
-                                            <a href="/about/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Awards</a>
+                                            <a href="/ivl/#/awards/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Awards</a>
                                         </li>
                                         <li class="nav-item js-nav--item" role="menuitem">
-                                            <a href="/about/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Captain's Page</a>
+                                            <a href="/ivl/#/captains-page/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Captain's Page</a>
                                         </li>
                                         <li class="nav-item js-nav--item" role="menuitem">
-                                            <a href="/about/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Champions</a>
+                                            <a href="/ivl/#/champions/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Champions</a>
                                         </li>
                                         <li class="nav-item js-nav--item" role="menuitem">
-                                            <a href="/about/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Clinics</a>
+                                            <a href="/ivl/#/clinics/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Clinics</a>
                                         </li>
                                         <li class="nav-item js-nav--item" role="menuitem">
-                                            <a href="/about/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Drop-In</a>
+                                            <a href="/ivl/#/drop-in/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Drop-In</a>
                                         </li>
                                         <li class="nav-item js-nav--item" role="menuitem">
-                                            <a href="/about/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">FAQ</a>
+                                            <a href="/ivl/#/faq/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">FAQ</a>
                                         </li>
                                         <li class="nav-item js-nav--item" role="menuitem">
-                                            <a href="/about/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Free Agents</a>
+                                            <a href="/ivl/#/free-agents/" class="nav-link nav-link-toplvl" aria-label="Top Level Link" id="js-subnav-13">Free Agents</a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -46,29 +46,29 @@
                     <div class="container-base container-max-width--1650">
                         <div class="collapse navbar-collapse navbarToggler">
                             <div class="col-md-4 col-lg-3">
-                                <a href="/" class="navbar-brand">
+                                <a href="/ivl/#/" class="navbar-brand">
                                     <img class="logo" src="/src/assets/logo.trn.gif">
                                 </a>
                             </div>
                             <div class="no-padding--tablet col-md-8 col-lg-9">
                                 <ul class="navbar-nav mt-md-0" role="menu">
                                     <li class="nav-item" role="menuitem">
-                                        <a href="/About/" class="nav-link" title="Apply Now">Gyms</a>
+                                        <a href="/ivl/#/gyms/" class="nav-link" title="Apply Now">Gyms</a>
                                     </li>
                                     <li class="nav-item" role="menuitem">
-                                        <a href="/About/" class="nav-link" title="Apply Now">History</a>
+                                        <a href="/ivl/#/history/" class="nav-link" title="Apply Now">History</a>
                                     </li>
                                     <li class="nav-item" role="menuitem">
-                                        <a href="/About/" class="nav-link" title="Apply Now">League Format</a>
+                                        <a href="/ivl/#/rules/" class="nav-link" title="Apply Now">Rules</a>
                                     </li>
                                     <li class="nav-item" role="menuitem">
-                                        <a href="/About/" class="nav-link" title="Apply Now">Photo Album</a>
+                                        <a href="/ivl/#/photo-album/" class="nav-link" title="Apply Now">Photo Album</a>
                                     </li>
                                     <li class="nav-item" role="menuitem">
-                                        <a href="/About/" class="nav-link" title="Apply Now">Private Lessons</a>
+                                        <a href="/ivl/#/referees/" class="nav-link" title="Apply Now">Referee's Page</a>
                                     </li>
                                     <li class="nav-item" role="menuitem">
-                                        <a href="/About/" class="nav-link" title="Apply Now">Referee's Page</a>
+                                        <a href="/ivl/#/contact/" class="nav-link" title="Apply Now">Contact</a>
                                     </li>
                                 </ul>
                             </div>

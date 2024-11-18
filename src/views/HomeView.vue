@@ -9,7 +9,7 @@
           <figure class="figure-caption">
             <h1>Apply Your Team</h1>
             <p>Join the Bay Area's most popular volleyball league</p>
-            <a href="/ivl/sign-up/">Sign Up Today</a>
+            <a href="/ivl/#/sign-up/">Sign Up Today ></a>
           </figure>
         </div>
       </div>
@@ -18,7 +18,7 @@
       <div class="container-base container-max-width--1650">
         <div class="row">
           <div class="col-12">
-            <h2 class="has-border">Most Popular Leagues</h2>
+            <h2 class="has-border">Announcements:</h2>
           </div>
         </div>
         <div class="row">
@@ -28,8 +28,8 @@
                 <img src="/src/assets/pic1.jpg" width="600" height="400">
               </figure>
               <div class="card-content">
-                <h4>Reverse Coed League - Mondays 7:15pm</h4>
-                <p>3 Women and 3 Men play on this team, compete against friends with only women allowed to attack the ball.</p>
+                <h4>Fall Season is now over!</h4>
+                <p>Winter Season 2025 will begin the week of January 6. We will send an email reminder to all the captains the day registration begins the first week in December. To be added to the captains' mailing list, send an e-mail, including a U.S. postal address, to IVLINC@AOL.COM.</p>
               </div>
             </div>
           </div>
@@ -39,9 +39,9 @@
                 <img src="/src/assets/pic3.jpg" width="600" height="400">
               </figure>
               <div class="card-content">
-                <h4>Men's League - Tuesdays 7:15pm</h4>
-                <p>6 Men play on this team, play the standard indoor rules.</p>
-              </div>
+                <h4>New Players and Referees!</h4>
+                <p>If you're a new player looking for a team, or a team looking for a player, check out the Free Agent Registry at the website. The Free Agent Registry replenishes itself approximately every 30 days. New referees can take our online referee test. You can take the test and have it corrected online, then bring the printed results to your league supervisor for certification. See the Referee's Page for details.</p>
+                </div>
             </div>
           </div>
           <div class="col-md-4">
@@ -50,9 +50,9 @@
                 <img src="/src/assets/pic2.jpg" width="600" height="400">
               </figure>
               <div class="card-content">
-                <h4>Quads Reverse Coed League - Wednesdays 7:15pm</h4>
-                <p>2 Men and 2 Women play on this team, compete with no open-hand serve receive, men can attack behind the 10 foot line.</p>
-              </div>
+                <h4>The IVL sponsors Friday night drop-in at Wilcox HS 7:30-10:00pm, $14/person</h4>
+                <p>Recommended for intermediate and above levels. For this week's schedule and info on how to sign up, use the online Reclub App.</p>
+                </div>
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@
 
 <style scoped>
   .slider {
-    height: 1279px;
+    height: 700px;
     margin-bottom: 0;
     visibility: hidden;
     display: flex;
@@ -77,7 +77,7 @@
     background-repeat: no-repeat;
     display: flex;
     width: 100%;
-    height: 100%;
+    height: 700px;
     position: absolute;
     left: 0;
     top: 0;
