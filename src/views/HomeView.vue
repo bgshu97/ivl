@@ -7,9 +7,9 @@
       <div class="fullscreen-slide">
         <div class="overlay">
           <figure class="figure-caption">
-            <h1>Apply Your Team</h1>
-            <p>Join the Bay Area's most popular volleyball league</p>
-            <a href="/ivl/#/sign-up/">Sign Up Today ></a>
+            <h1>Industrial Volleyball League, Inc.</h1>
+            <p>Apply to join the Bay Area's most popular volleyball league</p>
+            <a href="/ivl/#/sign-up/" class="white">Sign Up Today ></a>
           </figure>
         </div>
       </div>
@@ -18,7 +18,7 @@
       <div class="container-base container-max-width--1650">
         <div class="row">
           <div class="col-12">
-            <h2 class="has-border">Announcements:</h2>
+            <h1 class="has-border">Announcements:</h1>
           </div>
         </div>
         <div class="row">
@@ -28,7 +28,7 @@
                 <img src="/src/assets/pic1.jpg" width="600" height="400">
               </figure>
               <div class="card-content">
-                <h4>Fall Season is now over!</h4>
+                <h2>Fall Season is now over!</h2>
                 <p>Winter Season 2025 will begin the week of January 6. We will send an email reminder to all the captains the day registration begins the first week in December. To be added to the captains' mailing list, send an e-mail, including a U.S. postal address, to IVLINC@AOL.COM.</p>
               </div>
             </div>
@@ -39,7 +39,7 @@
                 <img src="/src/assets/pic3.jpg" width="600" height="400">
               </figure>
               <div class="card-content">
-                <h4>New Players and Referees!</h4>
+                <h2>New Players and Referees!</h2>
                 <p>If you're a new player looking for a team, or a team looking for a player, check out the Free Agent Registry at the website. The Free Agent Registry replenishes itself approximately every 30 days. New referees can take our online referee test. You can take the test and have it corrected online, then bring the printed results to your league supervisor for certification. See the Referee's Page for details.</p>
                 </div>
             </div>
@@ -50,7 +50,7 @@
                 <img src="/src/assets/pic2.jpg" width="600" height="400">
               </figure>
               <div class="card-content">
-                <h4>The IVL sponsors Friday night drop-in at Wilcox HS 7:30-10:00pm, $14/person</h4>
+                <h2>The IVL sponsors Friday night drop-in at Wilcox HS 7:30-10:00pm, $14/person</h2>
                 <p>Recommended for intermediate and above levels. For this week's schedule and info on how to sign up, use the online Reclub App.</p>
                 </div>
             </div>
@@ -118,13 +118,27 @@
   }
 
   .card {
-    background: black;
+    background: #282828;
     min-height: 550px;
     margin: 1rem 0;
+  }
+
+  .m-card-image {
+    border: 1px solid #282828;
   }
 
   .card-content {
     padding: 1rem 2rem;
     color: white;
+  }
+
+  h1 {
+    font-size: 2.188rem;
+    line-height: 2.5rem;
+    font-weight: bold;
+  }
+
+  .white {
+    color: hsla(0, 0%, 100%, 1);
   }
 </style>

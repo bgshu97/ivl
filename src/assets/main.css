@@ -2,12 +2,13 @@
 
 #app {
   margin: 0 auto;
+  width: 100%;
 }
 
 a,
 .green {
   text-decoration: none;
-  color: hsla(0, 0%, 100%, 1);
+  /* color: hsla(0, 0%, 100%, 1); */
   transition: 0.4s;
   padding: 3px;
 }
